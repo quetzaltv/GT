@@ -1,0 +1,198 @@
+#EXTM3U
+#EXTINF:-1 tvglogo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/15
+.png" group-title="CINE", Universal Channel
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" grouptitle="CINE", Fox Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1 tvglogo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movieshd.png" group-title="CINE", Fox Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo2.gif" group-title="CINE", HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1,LISTA DE ELIEZER CASTAÑEDA GRATIS.
+http://ELIEZER CASTAÑEDA
+https://c1.staticflickr.com/5/4033/4338999747_916010ff6c_b.jpg
+#EXTINF:-1, FOX ACTION
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=753994&f=.m3u8
+#EXTINF:-1, SPACE
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762211&f=.m3u8
+#EXTINF:-1, TELEMUNDO INT.
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762212&f=.m3u8
+#EXTINF:-1, DHE
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762213&f=.m3u8
+#EXTINF:-1, FOX COMEDY
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762214&f=.m3u8
+#EXTINF:-1, GOLDEN PLUS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762230&f=.m3u8
+#EXTINF:-1, GOLDEN PREMIER
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762231&f=.m3u8
+#EXTINF:-1, FOX MOVIES
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762232&f=.m3u8
+#EXTINF:-1, NICK
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762233&f=.m3u8
+#EXTINF:-1, CLARO CINEMA
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762234&f=.m3u8
+#EXTINF:-1, HBO FAMILY
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762235&f=.m3u8
+#EXTINF:-1, FX
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762236&f=.m3u8
+#EXTINF:-1, TNT SERIES
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762237&f=.m3u8
+#EXTINF:-1, CINE LATINO
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762242&f=.m3u8
+#EXTINF:-1, FOX LIFE
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762243&f=.m3u8
+#EXTINF:-1, NAT GEO WILD
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762245&f=.m3u8 
+#EXTINF:-1, WARNER 
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762246&f=.m3u8
+#EXTINF:-1, LIFE TIME
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762247&f=.m3u8
+#EXTINF:-1, FOX CLASSICS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762248&f=.m3u8
+#EXTINF:-1, FOX CINEMA
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762249&f=.m3u8
+#EXTINF:-1, CINECANAL
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762252&f=.m3u8
+#EXTINF:-1, TNT
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762262&f=.m3u8
+#EXTINF:-1, MAX UP
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762271&f=.m3u8
+#EXTINF:-1, HBO 2
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762272&f=.m3u8
+#EXTINF:-1, AXN
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762275&f=.m3u8
+#EXTINF:-1, CINEMAX
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762276&f=.m3u8
+#EXTINF:-1, UNIVERSAL
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762277&f=.m3u8
+#EXTINF:-1, TOONCAST
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762278&f=.m3u8
+#EXTINF:-1, SONY
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762280&f=.m3u8
+#EXTINF:-1, E! ENTRETAIMENT
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762281&f=.m3u8
+#EXTINF:-1, AZMUNDO
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762282&f=.m3u8
+#EXTINF:-1, MULTIPREMIER
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762283&f=.m3u8
+#EXTINF:-1, PASIONES
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762286&f=.m3u8
+#EXTINF:-1, LAS ESTRELLAS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762288&f=.m3u8
+#EXTINF:-1, MAX PRIME
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762299&f=.m3u8
+#EXTINF:-1, CINEMA DINAMITA
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762300&f=.m3u8
+#EXTINF:-1, FOX
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762301&f=.m3u8
+#EXTINF:-1, HBO SIGNATURE
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762302&f=.m3u8
+#EXTINF:-1, PARAMOUNT
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762305&f=.m3u8
+#EXTINF:-1, DE PELICULA
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758453&f=.m3u8
+#EXTINF:-1, ID
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758466&f=.m3u8
+#EXTINF:-1, MULTIPREMIER
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758475&f=.m3u8
+#EXTINF:-1, TNT
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758477&f=.m3u8
+#EXTINF:-1, FOX FAMILY 
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762156&f=.m3u8
+#EXTINF:-1, HBO PLUS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762157&f=.m3u8
+#EXTINF:-1, FOX ACTION
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762193&f=.m3u8
+#EXTINF:-1 DEPORTES SPORT
+https://storage.clubsantos.mx/noticias/b/849.jpg
+#EXTINF:-1, FOX SPORTS 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE03.m3u8
+#EXTINF:-1, FOX SPORTS 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE03.m3u8
+#EXTINF:-1,FOX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE03.m3u8
+#EXTINF:-1,FOX SPORTS HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
+#EXTINF:-1, ESPN+
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
+#EXTINF:-1, ESPN 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
+#EXTINF:-1, FOX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
+#EXTINF:-1, FOX SPORTS 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
+#EXTINF:-1, FOX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
+#EXTINF:-1, ESPN
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
+#EXTINF:-1, ESPN 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
+#EXTINF:-1, AYM SPORT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE03.m3u8
+#EXTINF:-1, IMPACT Wrestling
+http://swf.x10.bz/swe/twich.php?canal=impactwrestling&f=.m3u8
+#EXTINF:-1, RedBull
+http://swf.x10.bz/swe/twich.php?canal=redbull&f=.m3u8
+#EXTINF:-1, Eleven Sports Next
+http://swf.x10.bz/swe/twich.php?canal=elevensportsnext&f=.m3u8
+#EXTINF:-1,Gol Tv Ecuador
+http://wohuogai.com:58000/live/SD_876yikjBSD86TOILAB/65hbjjt787iun/4542.t
+s
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png" grouptitle="DEPORTES", CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png" grouptitle="DEPORTES", CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
+#EXTINF:-1 tvg-logo="http://www.chingonatv.com/wpcontent/uploads/2013/11/ESPN.jpg" group-title="DEPORTES", ESPN Argentina
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6FLVrA9.png" grouptitle="DEPORTES", ESPN 2 Argentina
+http://tv.nousiptv.com:25462/live/Demetrio/Demetrio/3614.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MALrAFv.png" grouptitle="DEPORTES", ESPN 3 Argentina
+http://tv.nousiptv.com:25462/live/Demetrio/Demetrio/3615.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tsBxDxY.png" grouptitle="DEPORTES", Fox Sports 3 Argentina
+http://tv.nousiptv.com:25462/live/Demetrio/Demetrio/2045.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qXuM4hT.png" grouptitle="DEPORTES", Fox Sports 2 Argentina
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/3272.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qXuM4hT.png" grouptitle="DEPORTES", Fox Sports Argentina
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/3271.m3u8
+#EXTINF:0,ESPN Plus Sur
+#EXTVLCOPT:network-caching=1000
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20313.m3u8
+#EXTINF:0,ESPN Plus MX
+#EXTVLCOPT:network-caching=1000
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20312.m3u8
+#EXTINF:0,ESPN 3 Sur
+#EXTVLCOPT:network-caching=1000
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20311.m3u8
+#EXTINF:0,ESPN 3 MX
+#EXTVLCOPT:network-caching=1000
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20310.m3u8
+#EXTINF:0,ESPN 2 Sur
+#EXTVLCOPT:network-caching=1000
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20309.m3u8
+#EXTINF:0,ESPN 2 MX
+#EXTVLCOPT:network-caching=1000
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20308.m3u8
+#EXTINF:0,ESPN 1 Sur
+#EXTVLCOPT:network-caching=1000
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20307.m3u8
+#EXTINF:0,ESPN 1
+#EXTVLCOPT:network-caching=1000
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20306.m3u8
+#EXTINF:0,Fox Sports 3 Sur
+#EXTVLCOPT:network-caching=1000
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20256.m3u8
+#EXTINF:0,Fox Sports 3 MX
+#EXTVLCOPT:network-caching=1000
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20255.m3u8
+#EXTINF:0,Fox Sports 2 Sur
+#EXTVLCOPT:network-caching=1000
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20254.m3u8
+#EXTINF:0,Fox Sports 2 MX
+#EXTVLCOPT:network-caching=1000
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20253.m3u8
+#EXTINF:0,Fox Sports 1 Sur
+#EXTVLCOPT:network-caching=1000
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20252.m3u8
+#EXTINF:0,Fox Sports 1 MX
+#EXTVLCOPT:network-caching=1000
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20251.m3u8 
