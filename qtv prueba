@@ -39,12 +39,14 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="CanalTM.gt" tvg-name="Canal Tele Mundo" tvg-logo="" group-title="General",Canal Tele Mundo
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
-#EXTINF:-1 tvg-id="CanalVM.gt" tvg-name="Canal VM Latino" tvg-logo="" group-title="General",Canal VM Latino
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalUT.gt" tvg-name="Guatemala Plus" tvg-logo="" group-title="General",Canal Aplus
+#EXTINF:-1 tvg-id="ag.gt" tvg-name="Azteca Guatemala" tvg-logo="" group-title="General",Canal Azteca Guatemala
+https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
+#EXTINF:-1 tvg-id="ap.gt" tvg-name="Guatemala Plus" tvg-logo="" group-title="General",Canal Aplus
 https://live-ak.vimeocdn.com/exp=1770951102~acl=%2F4039b4de-ebe3-4519-a498-d6e547659ff6_fmp4%2F%2A~hmac=54ef6ce0a9c5cf5cd66964413c2518dcbaa7091dd7bf71ecf35a4d8527904df9/4039b4de-ebe3-4519-a498-d6e547659ff6_fmp4/avc/hls.m3u8
 #EXTINF:-1 tvg-id="CanalTN23.gt" tvg-name="Canal TN 23" tvg-logo="" group-title="General",Canal TN 23
 https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/ts:abr.m3u8
+#EXTINF:-1 tvg-id="CanalVM.gt" tvg-name="Canal VM Latino" tvg-logo="" group-title="General",Canal VM Latino
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalUT.gt" tvg-name="Canal Urbano TV" tvg-logo="" group-title="General",Canal Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalVORT.gt" tvg-name="Canal Voice Over RadioTV" tvg-logo="" group-title="General",Canal Voice Over RadioTV
@@ -55,3 +57,45 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalLT.gt" tvg-name="Canal Lobo TV" tvg-logo="" group-title="General",Canal Lobo TV
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="Cinco TV" tvg-logo="" group-title="General",Canal Cinco TV
+https://list.iptvcat.com/my_list/s/de8c0480f5f88a3fd524de43447f90e7.m3u8
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="Cosmo" tvg-logo="" group-title="General",Canal Cosmo
+https://list.iptvcat.com/my_list/s/f96f0d3af8ccf52c943dbdfb41f29697.m3u8
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="Xtrema Accion" tvg-logo="" group-title="General",Canal Xtrema Accion
+https://list.iptvcat.com/my_list/s/3d3e3a5b520df52eacbf78e4c720c239.m3u8
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="Costa Rica Chanel" tvg-logo="" group-title="General",Canal Costa Rica Chanel
+https://list.iptvcat.com/my_list/s/1142c8d3905407ca084fc41f284d22b3.m3u8
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="Claro" tvg-logo="" group-title="General",Canal Claro
+https://list.iptvcat.com/my_list/s/2105c48a71ce5c3aa1f5a17e9d65db42.m3u8
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="Canal 10" tvg-logo="" group-title="General",Canal 10
+https://list.iptvcat.com/my_list/s/7be87a9c3acd514f023b804eb580b91a.m3u8
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="CHTV" tvg-logo="" group-title="General",CHTV
+https://list.iptvcat.com/my_list/s/e2696ce3d12527f0ae90296e6763ab95.m3u8
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="Cinco TV" tvg-logo="" group-title="General",Canal Cinco TV
+
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="Cinco TV" tvg-logo="" group-title="General",Canal Cinco TV
+
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="Cinco TV" tvg-logo="" group-title="General",Canal Cinco TV
+
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="Disney Chanel" tvg-logo="" group-title="General",Canal Disney Chanel
+https://list.iptvcat.com/my_list/s/0561541493899aeb62565a2fb1e9dc65.m3u8
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="Magic Kids" tvg-logo="" group-title="General",Canal Magic Kids
+https://list.iptvcat.com/my_list/s/1f3720817b9b41f487f86806dc81d081.m3u8
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="Xtrema Cartoons" tvg-logo="" group-title="General",Canal Xtrema Cartoons
+https://list.iptvcat.com/my_list/s/50df6e11f0b93007553c37a84b1790ba.m3u8
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="Cinco TV" tvg-logo="" group-title="General",Canal Cinco TV
+
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="Cinco TV" tvg-logo="" group-title="General",Canal Cinco TV
+
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="Cinco TV" tvg-logo="" group-title="General",Canal Cinco TV
+
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="Cinco TV" tvg-logo="" group-title="General",Canal Cinco TV
+
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="Cinco TV" tvg-logo="" group-title="General",Canal Cinco TV
+
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="Cinco TV" tvg-logo="" group-title="General",Canal Cinco TV
+
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="Cinco TV" tvg-logo="" group-title="General",Canal Cinco TV
+
+#EXTINF:-1 tvg-id="Canalct.gt" tvg-name="FIFA+" tvg-logo="" group-title="General",Canal FIFA+
+https://list.iptvcat.com/my_list/s/18938e0e699bfbf5ddbc2fd9a790f4dd.m3u8
