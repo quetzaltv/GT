@@ -41,10 +41,12 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 #EXTINF:-1 tvg-id="CanalVM.gt" tvg-name="Canal VM Latino" tvg-logo="" group-title="General",Canal VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalUT.gt" tvg-name="Canal Urbano TV" tvg-logo="" group-title="General",Canal Urbano TV
-https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalUT.gt" tvg-name="Guatemala Plus" tvg-logo="" group-title="General",Canal Aplus
+https://live-ak.vimeocdn.com/exp=1770951102~acl=%2F4039b4de-ebe3-4519-a498-d6e547659ff6_fmp4%2F%2A~hmac=54ef6ce0a9c5cf5cd66964413c2518dcbaa7091dd7bf71ecf35a4d8527904df9/4039b4de-ebe3-4519-a498-d6e547659ff6_fmp4/avc/hls.m3u8
 #EXTINF:-1 tvg-id="CanalTN23.gt" tvg-name="Canal TN 23" tvg-logo="" group-title="General",Canal TN 23
 https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/ts:abr.m3u8
+#EXTINF:-1 tvg-id="CanalUT.gt" tvg-name="Canal Urbano TV" tvg-logo="" group-title="General",Canal Urbano TV
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalVORT.gt" tvg-name="Canal Voice Over RadioTV" tvg-logo="" group-title="General",Canal Voice Over RadioTV
 https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8
 #EXTINF:-1 tvg-id="CanalVBT.gt" tvg-name="Canal BTATV" tvg-logo="" group-title="General",Canal BTATV
